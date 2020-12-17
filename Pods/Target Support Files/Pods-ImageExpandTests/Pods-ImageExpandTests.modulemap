@@ -1,0 +1,6 @@
+framework module Pods_ImageExpandTests {
+  umbrella header "Pods-ImageExpandTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
